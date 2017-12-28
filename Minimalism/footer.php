@@ -8,7 +8,7 @@
 	</a>
 </div>
 <footer id="footer" role="contentinfo">
-	&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a> | 鄂ICP备16012001号-1
+	&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a> | 鄂ICP备16012001号-1 | Theme By <a href="https://github.com/WarnerYang/typecho_themes">Minimalism</a>
 </footer><!-- end #footer -->
 
 <?php $this->footer(); ?>
