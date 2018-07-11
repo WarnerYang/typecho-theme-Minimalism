@@ -4,7 +4,7 @@
  *
  * @package custom
  * @author  Warner
- * @link 	http://yanghuaqiang.com
+ * @link 	https://github.com/WarnerYang
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

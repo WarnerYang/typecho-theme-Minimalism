@@ -5,7 +5,7 @@
  * @package Typecho Minimalism Theme 
  * @author  Warner
  * @version beta
- * @link    http://yanghuaqiang.com
+ * @link    https://github.com/WarnerYang
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
