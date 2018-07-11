@@ -7,6 +7,15 @@
 
 - [预览地址](http://blog.yanghuaqiang.com)
 
+    - 主页
+![home](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711111518.png?raw=true)
+
+    - 留言板
+![guestbook](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711151247.png?raw=true)
+
+    - 关于
+![about](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711154545.png?raw=true)
+
 - 描述：极简主义，蓝白基调，素雅高贵
 
 - 使用方式：（以linux为例）
@@ -22,7 +31,7 @@ git clone https://github.com/WarnerYang/typecho_themes.git
 cd typecho_themes/
 
 #复制
-cp -r Minimalism/ ../
+cp -r -f Minimalism/ ../
 
 ```
 
@@ -47,4 +56,4 @@ cp -r Minimalism/ ../
 - 使用方式同上一个主题类似
 
 
-觉得不错就右上角 start 支持下吧
+**觉得不错就右上角 start 支持下吧！**
