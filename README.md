@@ -1,9 +1,5 @@
 
-这是 typecho 主题，只适用于 typecho 博客
-
-本目录下有两个主题文件：
-
-#### Minimalism 
+####  Minimalism 极简主义
 
 - [预览地址](http://blog.yanghuaqiang.com)
 
@@ -16,44 +12,35 @@
     - 关于
 ![about](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711154545.png?raw=true)
 
-- 描述：极简主义，蓝白基调，素雅高贵
+- 特色：
+	- 极简主义，蓝白基调，素雅高贵
+	- 极速浏览体验
+	- 每日必应图片、每日故事
 
-- 使用方式：（以linux为例）
+- 使用方式：
 
 ```
-#首先进入 typecho 主题目录，克隆本主题
+#进入 typecho 主题目录
 cd usr/themes/
 
 #克隆本主题
-git clone https://github.com/WarnerYang/typecho_themes.git
-
-#进入本主题目录
-cd typecho_themes/
-
-#复制
-cp -r -f Minimalism/ ../
+git clone git@github.com:WarnerYang/typecho-theme-Minimalism.git Minimalism
 
 ```
+
 
 完成就可以在你的后台看到这个主题
 
 - 内置两个模板文件，可以在后台新增独立页面选择自定义模板
-
-    - 留言板 guestbook
-
-    - 关于 about
+    - guestbook #留言板
+    - about     #关于
 
 - 用到的插件
-
     - 代码高亮 [highlight.js](https://highlightjs.org/) 
-
     - 预加载 [instantclick.js](http://instantclick.io/)
 
-#### Mecho 
+- 每日访问后会在博客根目录生成两个文件
+	- 20180719.jpg  #必应每日壁纸
+	- 20180719.json #必应每日故事
 
-- 这主题其实也还不错，不妨试试看
-
-- 使用方式同上一个主题类似
-
-
-**觉得不错就右上角 start 支持下吧！**
+**觉得不错就右上角  start 支持下吧！**
