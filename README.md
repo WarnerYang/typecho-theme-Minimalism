@@ -25,7 +25,7 @@
 cd usr/themes/
 
 #克隆本主题
-git clone git@github.com:WarnerYang/typecho-theme-Minimalism.git Minimalism
+git clone https://github.com/WarnerYang/typecho-theme-Minimalism.git Minimalism
 
 ```
 
