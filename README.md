@@ -4,13 +4,14 @@
 - [预览地址](http://blog.yanghuaqiang.com)
 
     - 主页
-![home](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711111518.png?raw=true)
+![home](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711111518.png)
+
 
     - 留言板
-![guestbook](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711151247.png?raw=true)
+![guestbook](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711151247.png)
 
     - 关于
-![about](https://github.com/WarnerYang/typecho_themes/blob/master/Minimalism/img/20180711154545.png?raw=true)
+![about](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711154545.png)
 
 - 特色：
 	- 极简主义，蓝白基调，素雅高贵
