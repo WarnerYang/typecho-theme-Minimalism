@@ -1,8 +1,9 @@
 
 #  Minimalism 极简主义
 
-- [预览地址](http://blog.yanghuaqiang.com)
+## [预览地址](http://blog.yanghuaqiang.com)
 
+## 效果图
 - 主页
 ![home](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711111518.png)
 
@@ -13,12 +14,12 @@
 - 关于
 ![about](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711154545.png)
 
-## 特色：
+## 特色
 - 极简主义，蓝白基调，素雅高贵
 - 极速浏览体验
 - 每日必应图片、每日故事
 
-## 下载：
+## 下载
 
 ```
 #进入 typecho 主题目录
