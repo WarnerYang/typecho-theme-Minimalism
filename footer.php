@@ -8,7 +8,7 @@
 	</a>
 </div>
 <footer id="footer" role="contentinfo">
-	&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a> | Powered by <a href="https://github.com/typecho/typecho">Typecho</a>| Theme <a href="https://github.com/WarnerYang/typecho-theme-Minimalism">Minimalism</a>
+	&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a> | Powered by <a href="https://github.com/typecho/typecho">Typecho</a> | Theme <a href="https://github.com/WarnerYang/typecho-theme-Minimalism">Minimalism</a>
 </footer><!-- end #footer -->
 
 <?php $this->footer(); ?>
