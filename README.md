@@ -3,14 +3,14 @@
 
 - [预览地址](http://blog.yanghuaqiang.com)
 
-    - 主页
+- 主页
 ![home](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711111518.png)
 
 
-    - 留言板
+- 留言板
 ![guestbook](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711151247.png)
 
-    - 关于
+- 关于
 ![about](https://github.com/WarnerYang/typecho-theme-Minimalism/blob/master/img/20180711154545.png)
 
 ## 特色：
@@ -47,4 +47,4 @@ git pull
 - 20180719.jpg  #必应每日壁纸
 - 20180719.json #必应每日故事
 
-**觉得不错就右上角  start 支持下吧！**
+## 觉得不错就右上角  start 支持下吧
