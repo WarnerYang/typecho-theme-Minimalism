@@ -1,5 +1,5 @@
 
-#  Minimalism 极简主义
+#  typecho主题 Minimalism 极简主义
 
 ## [预览地址](http://blog.yanghuaqiang.com)
 
