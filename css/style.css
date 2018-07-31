@@ -283,8 +283,10 @@ textarea {
 .page-navigator li {
 	display:inline-block;
 	background-color: hsla(0,0%,80%,.2);
+    float: left;
+    margin: 1px 0;
 }
-.page-navigator a {
+.page-navigator a,.page-navigator span{
 	display: inline-block;
 	height: 30px;
 	line-height: 30px;
@@ -405,7 +407,6 @@ textarea {
 }
 .widget-list li {
 	margin: 5px 0;
-	line-height: 1.5;
 	font-size: 14px;
 	color: #71777c;
 	overflow: hidden;
@@ -416,12 +417,12 @@ textarea {
 	margin-left:15px;
 }
 #footer {
-	padding: 1em 0;
-	line-height: 1.5;
-	text-align: center;
-	color: #8590a6; 
-	font-size: 14px;
-	margin-top: 15px;
+	padding: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #8590a6;
+    font-size: 14px;
+    margin-top: 15px;
 }
 #footer a{
 	color: #8590a6; 
