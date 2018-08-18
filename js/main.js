@@ -11,7 +11,9 @@ jQuery(document).ready(function($) {
 			$("#nav-menu").removeAttr('style');
 
 		}else{
-			setTimeout(function(){$('#header').addClass('visible');},150);
+			setTimeout(function(){
+				$('#header').addClass('visible');
+			},150);
 		}  
 		t = p;       
 	});
@@ -23,8 +25,15 @@ jQuery(document).ready(function($) {
 
 	//导航菜单切换
 	$(".hamburger").click(function(event){
+		if($(this).hasClass('clicked')) {
+			return;
+		}
 		$(this).toggleClass("is-active");
 		$("#nav-menu").slideToggle(100);
+		$(this).addClass('clicked');
+		setTimeout(function(that){ 
+			$(".hamburger").removeClass('clicked');
+		},300);
 	});
 
 	//替换全局a标签 外链统一新窗口打开
