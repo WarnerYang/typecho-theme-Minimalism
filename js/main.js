@@ -28,11 +28,11 @@ jQuery(document).ready(function($) {
 	});
 
 	//替换全局a标签 外链统一新窗口打开
-	$('a').each(function(index, el) {
-		if(el.host!=document.domain){
-			$(this).attr('target','_blank');
-		}
-	});
+	// $('a').each(function(index, el) {
+	// 	if(el.host!=document.domain){
+	// 		$(this).attr('target','_blank');
+	// 	}
+	// });
 
 	//代码高亮
 	$('pre code').each(function(i, block) {
