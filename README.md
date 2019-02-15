@@ -1,7 +1,7 @@
 
 #  typecho主题 Minimalism 极简主义
 
-## [预览地址](http://blog.yanghuaqiang.com)
+## [预览地址](https://blog.yanghuaqiang.com)
 
 ## 效果图
 - 主页
