@@ -62,6 +62,7 @@ function img_thumb($cid) {
         ->where('table.contents.cid=?', $cid)
         ->order('table.contents.cid', Typecho_Db::SORT_ASC)
         ->limit(1));
+    $imgUrl = [];
     $num = preg_match_all("/http(.*?)(.jpg|.png)/", $rs['text'], $imgUrl);
     if($num==0){
         return '';

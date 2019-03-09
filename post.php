@@ -8,7 +8,7 @@
         </h1>
         <ul class="post-meta">
             <!-- <li itemprop="author" itemscope itemtype="http://schema.org/Person"><?php _e('作者: '); ?><a itemprop="name" href="<?php $this->author->permalink(); ?>" rel="author"><?php $this->author(); ?></a></li> -->
-            <li><?php _e('时间: '); ?><time datetime="<?php $this->date('c'); ?>" itemprop="datePublished"><?php $this->date('Y-m-d H:i'); ?></time></li>
+            <li><time datetime="<?php $this->date('c'); ?>" itemprop="datePublished"><?php $this->date('Y-m-d H:i'); ?></time></li>
             <?php if(isset($this->options->plugins['activated']['Views'])) _e('<li>').Views_Plugin::theViews(). _e('</li>'); ?>
             <li><?php _e('分类: '); ?><?php $this->category(','); ?></li>
         </ul>

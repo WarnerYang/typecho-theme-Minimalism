@@ -27,9 +27,9 @@ section{
 a {
 	color:#333;
 	text-decoration:none;
-	-webkit-transition: all .2s;
+	/* -webkit-transition: all .2s;
 	-o-transition: all .2s;
-	transition: all .2s;
+	transition: all .2s; */
 }
 a:hover,a:active {
 	color: #007fff;
@@ -129,9 +129,9 @@ textarea {
 	float: left;
 }
 .description {
-	margin:.5em 0 0;
-	color:#999;
-	font-style:italic;
+    text-align: center;
+	margin-top: 55px;
+	color: #71777c;
 }
 #nav-menu {
 	padding: 5px 0;
@@ -202,7 +202,7 @@ textarea {
 }
 .post-title {
 	margin: 0;
-	padding: 10px 10px 10px 20px;
+	padding: 15px 10px 15px 20px;
 	font-weight: 400;
 	font-size: 24px;
 	border-bottom: 1px solid hsla(0,0%,59%,.1);
@@ -236,12 +236,12 @@ textarea {
 }
 .post-content {
 	line-height: 1.6; 
-	padding: 10px 20px;
+	padding: 15px 20px;
 }
 .post .tags {
-	clear:both;
-	padding: 20px;
-	line-height: 32px;
+    clear: both;
+    padding: 10px 20px;
+    line-height: 32px;
 }
 .post-near {
 	list-style: none;
@@ -307,7 +307,7 @@ textarea {
 	margin-top: 10px;
 	background: #fff; 
 	padding: 20px;
-	box-shadow: 0 1px 2px 0 rgba(0,0,0,.05); 
+	/* box-shadow: 0 1px 2px 0 rgba(0,0,0,.05);  */
 }
 .comment-list,.comment-list ol {
 	list-style:none;
@@ -632,7 +632,7 @@ img.alignright {
 }
 .follow-me{
 	width: 100%;
-	margin: 50px 0 15px 0;
+	margin: 15px 0;
 	border-top: 1px solid hsla(0,0%,59%,.1);
 	text-align: center;
 	padding: 8px 0;
