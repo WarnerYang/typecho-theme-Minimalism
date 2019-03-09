@@ -647,6 +647,9 @@ img.alignright {
 .follow-me a:last-child{
 	border: none;
 }
+p{
+	margin: 5px 0;
+}
 
 /*导航菜单*/
 .hamburger{
