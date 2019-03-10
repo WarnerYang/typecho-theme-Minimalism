@@ -647,7 +647,7 @@ img.alignright {
 .follow-me a:last-child{
 	border: none;
 }
-p{
+ul li p{
 	margin: 5px 0;
 }
 
