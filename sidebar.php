@@ -7,7 +7,7 @@
         <div class="info-header" style="background-image:url('<?php _e($this->options->siteUrl() . date('Ymd') . '.jpg'); ?>');">
             <span class="info-header-img">
                 <a href="<?php $this->options->adminUrl(); ?>" target="_blank">
-                    <img src="<?php $this->options->themeUrl('img/header.jpg'); ?>">
+                    <img src="https://s.gravatar.com/avatar/7419accf4ff9b99a965177994df9e87b?s=80">
                 </a>
             </span>
         </div>
